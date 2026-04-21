@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.CreateAccountTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-21T17:34:25" hostname="MacBookAir" time="0.821">
+  <properties/>
+  <testcase name="existedUserRegisterNegativeTest" classname="com.phonebook.tests.CreateAccountTests" time="0.821"/>
+  <system-out><![CDATA[19:34:15.895 [Test worker] INFO  com.phonebook.core.TestBase -- Start test existedUserRegisterNegativeTest with data: []
+19:34:26.807 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: existedUserRegisterNegativeTest
+19:34:26.808 [Test worker] INFO  com.phonebook.core.TestBase -- Stop test
+19:34:26.808 [Test worker] INFO  com.phonebook.core.TestBase -- **************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
